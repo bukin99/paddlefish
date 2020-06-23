@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Paddlefish
 
-You can use the [editor on GitHub](https://github.com/bukin99/paddlefish/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Distribution: 
+Paddlefish are one of the most unique fish in Oklahoma. They can live up to 50 years and range throughout the U.S. from Montana to Louisiana. In Oklahoma, they are found mainly in the Grand Neosho, Arkansas and Red River systems.
+The paddlefish was alive when dinosaurs were rumbling around in the late Cretaceous Period.  Paddlefish are one of the most unique fish in Oklahoma.  Paddlefish have long oar or spoon like bills and don’t look like any other Oklahoma fish.  They also have smooth scaleless skin and broad shark like tails.  During the spring, males develop sandpapery like bumps (breeding tubercles) on their heads and back.  Paddlefish have wide gaping mouths and toothbrush like bristles in their gills. They swim through the water with their mouth open and filter feed on small microscopic plankton, much like whale sharks do. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Habitat: 
+American paddlefish are well adapted to living in rivers and lakes. They inhabit many types of habitats and occur most frequently in deeper, low current areas such as side channels, backwater lakes and tailwaters below dams. 
 
-### Markdown
+Natural Food Sources: 
+One of Oklahoma’s largest fish, the paddlefish feeds on tiny zooplankton (microscopic insects).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Spawning: 
+Male paddlefish are old enough to spawn when they are four to nine years. Females spawn when they are 6-12 years old. Spawning season is from March through June, when spring rains raise the water levels of rivers and water temperatures reach 50-60 degrees. Males and females gather in schools and release their eggs over gravel or sandbars. This is called "broadcast spawning." 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bukin99/paddlefish/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Facts: 
+Paddlefish are caught by snagging, usually beginning sometime in March and ending in late April, during their early spring spawning run. This prehistoric fish can be caught by snagging with a stout surf rod, heavy test line, and a large, barbless treble hook.
+Paddlefish were once very abundant throughout their range, but have declined in numbers. Threats to paddlefish include:
+Construction of dams which have affected breeding and feeding patterns
+Fish kills and water quality issues associated with dam operations
+Illegal harvest of adult paddlefish for caviar
+In 1992, fisheries biologists began an effort to re-introduce paddlefish to waters where they has become locally eradicated. Dams on several rivers had blocked the annual movements of paddlefish in several river systems. Hatchery professionals raised young paddlefish in Byron and Tishomingo and then released them in Kaw, Oologah, Texoma, and Hugo lakes.
+The fisheries division of the wildlife department have placed bands on thousands of paddlefish in lakes statewide. These bands are an important research tool allowing biologists to learn about population abundance, individual growth, and annual harvest. Anglers can assist in this effort by reporting banded harvest, not removing bands from released fish, and knowing the regulations. This research is being paid for through the federally-administered State Wildlife Grant.
