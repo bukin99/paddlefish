@@ -1,5 +1,5 @@
 # Paddlefish
-![Branching](paddlefish.jpg)
+![Branching](Paddlefish.png)
 Distribution: 
 Paddlefish are one of the most unique fish in Oklahoma. They can live up to 50 years and range throughout the U.S. from Montana to Louisiana. In Oklahoma, they are found mainly in the Grand Neosho, Arkansas and Red River systems.
 The paddlefish was alive when dinosaurs were rumbling around in the late Cretaceous Period.  Paddlefish are one of the most unique fish in Oklahoma.  Paddlefish have long oar or spoon like bills and don’t look like any other Oklahoma fish.  They also have smooth scaleless skin and broad shark like tails.  During the spring, males develop sandpapery like bumps (breeding tubercles) on their heads and back.  Paddlefish have wide gaping mouths and toothbrush like bristles in their gills. They swim through the water with their mouth open and filter feed on small microscopic plankton, much like whale sharks do. 
